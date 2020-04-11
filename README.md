@@ -1,2 +1,2 @@
-# Emerald-++
+# Emerald ++
 A Java Mod for Minecraft.
