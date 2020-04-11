@@ -1,0 +1,39 @@
+//Items
+
+//Emerald
+
+item.examplemod_EmeraldPickaxe.name=Emerald Pickaxe
+item.examplemod_EmeraldTransporter.name=Emerald Transporter
+tile.examplemod_DiamondEmerald.name=Diamond Emerald
+item.examplemod_EmeraldAxe.name=Emerald Axe
+item.examplemod_EmeraldShovel.name=Emerald Shovel
+item.examplemod_EmeraldHoe.name=Emerald Hoe
+item.examplemod_EmeraldSword.name=Emerald Sword
+itemGroup.EmeraldTab=Emerald
+
+
+
+//Blocks
+
+//Emerald
+
+tile.examplemod_EmeraldSkull.name=Emerald Skull
+tile.examplemod_DiamondEmerald.name=Diamond Emerald
+
+//Armor
+
+//Emerald
+
+item.examplemod_EmeraldHelmet.name=Emerald Helmet
+item.examplemod_EmeraldChestplate.name=Emerald Chestplate
+item.examplemod_EmeraldLeggings.name=Emerald Leggings
+item.examplemod_EmeraldBoots.name=Emerald Boots
+
+
+//Entities
+
+//Emerald
+
+entity.examplemod_emeraldSkull.name=Emerald Skull
+
+

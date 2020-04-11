@@ -1,0 +1,95 @@
+[10:22:31] [Client thread/INFO]: Setting user: Player246
+[10:22:34] [Client thread/INFO]: LWJGL Version: 2.9.2
+[10:22:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:22:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:22:38] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[10:22:38] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:22:38] [Thread-6/INFO]: OpenAL initialized.
+[10:22:38] [Sound Library Loader/INFO]: Sound engine started
+[10:22:39] [Client thread/INFO]: Created: 16x16 textures-atlas
+[10:22:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:22:41] [Client thread/INFO]: SoundSystem shutting down...
+[10:22:41] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:22:41] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:22:41] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[10:22:41] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:22:41] [Thread-8/INFO]: OpenAL initialized.
+[10:22:42] [Sound Library Loader/INFO]: Sound engine started
+[10:22:43] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:25:25] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[10:25:25] [Server thread/INFO]: Generating keypair
+[10:25:25] [Server thread/INFO]: Converting map!
+[10:25:25] [Server thread/INFO]: Scanning folders...
+[10:25:25] [Server thread/INFO]: Total conversion count is 0
+[10:25:25] [Server thread/INFO]: Preparing start region for level 0
+[10:25:26] [Server thread/INFO]: Preparing spawn area: 5%
+[10:25:27] [Server thread/INFO]: Preparing spawn area: 10%
+[10:25:28] [Server thread/INFO]: Preparing spawn area: 15%
+[10:25:29] [Server thread/INFO]: Preparing spawn area: 21%
+[10:25:30] [Server thread/INFO]: Preparing spawn area: 29%
+[10:25:31] [Server thread/INFO]: Preparing spawn area: 38%
+[10:25:32] [Server thread/INFO]: Preparing spawn area: 45%
+[10:25:33] [Server thread/INFO]: Preparing spawn area: 53%
+[10:25:34] [Server thread/INFO]: Preparing spawn area: 65%
+[10:25:35] [Server thread/INFO]: Preparing spawn area: 78%
+[10:25:36] [Server thread/INFO]: Preparing spawn area: 92%
+[10:25:37] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:25:43] [Server thread/INFO]: Player246[local:E:453989bb] logged in with entity id 1211 at (-264.5, 71.0, 190.5)
+[10:25:43] [Server thread/INFO]: Player246 joined the game
+[10:25:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4557ms behind, skipping 91 tick(s)
+[10:26:09] [Server thread/INFO]: Player246 has just earned the achievement [Taking Inventory]
+[10:26:09] [Client thread/INFO]: [CHAT] Player246 has just earned the achievement [Taking Inventory]
+[10:27:01] [Server thread/WARN]: Skipping Entity with id enderdragon
+[10:27:01] [Client thread/INFO]: [CHAT] Unable to summon object
+[10:27:11] [Server thread/WARN]: Skipping Entity with id wither
+[10:27:11] [Client thread/INFO]: [CHAT] Unable to summon object
+[10:27:17] [Client thread/INFO]: [CHAT] --- Showing help page 1 of 7 (/help <page>) ---
+[10:27:17] [Client thread/INFO]: [CHAT] /achievement <give|take> <stat_name|*> [player]
+[10:27:17] [Client thread/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[10:27:17] [Client thread/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[10:27:17] [Client thread/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+[10:27:17] [Client thread/INFO]: [CHAT] /debug <start|stop|chunk> [<x> <y> <z>]
+[10:27:17] [Client thread/INFO]: [CHAT] /defaultgamemode <mode>
+[10:27:17] [Client thread/INFO]: [CHAT] /difficulty <new difficulty>
+[10:27:17] [Client thread/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[10:27:23] [Client thread/INFO]: [CHAT] --- Showing help page 3 of 7 (/help <page>) ---
+[10:27:23] [Client thread/INFO]: [CHAT] /gamerule <rule name> [value]
+[10:27:23] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[10:27:23] [Client thread/INFO]: [CHAT] /help [page|command name]
+[10:27:23] [Client thread/INFO]: [CHAT] /kill [player|entity]
+[10:27:23] [Client thread/INFO]: [CHAT] /me <action ...>
+[10:27:23] [Client thread/INFO]: [CHAT] /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode]
+[10:27:23] [Client thread/INFO]: [CHAT] /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[10:27:26] [Client thread/INFO]: [CHAT] --- Showing help page 4 of 7 (/help <page>) ---
+[10:27:26] [Client thread/INFO]: [CHAT] /publish
+[10:27:26] [Client thread/INFO]: [CHAT] /replaceitem <entity|block> ...
+[10:27:26] [Client thread/INFO]: [CHAT] /say <message ...>
+[10:27:26] [Client thread/INFO]: [CHAT] /scoreboard <objectives|players|teams> ...
+[10:27:26] [Client thread/INFO]: [CHAT] /seed
+[10:27:26] [Client thread/INFO]: [CHAT] /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[10:27:26] [Client thread/INFO]: [CHAT] /setworldspawn [<x> <y> <z>]
+[10:27:33] [Client thread/INFO]: [CHAT] --- Showing help page 5 of 7 (/help <page>) ---
+[10:27:33] [Client thread/INFO]: [CHAT] /spawnpoint [player] [<x> <y> <z>]
+[10:27:33] [Client thread/INFO]: [CHAT] /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[10:27:33] [Client thread/INFO]: [CHAT] /stats <entity|block> ...
+[10:27:33] [Client thread/INFO]: [CHAT] /summon <EntityName> [x] [y] [z] [dataTag]
+[10:27:33] [Client thread/INFO]: [CHAT] /tell <player> <private message ...>
+[10:27:33] [Client thread/INFO]: [CHAT] /tellraw <player> <raw json message>
+[10:27:33] [Client thread/INFO]: [CHAT] /testfor <player> [dataTag]
+[10:27:50] [Server thread/INFO]: <Player246> hello
+[10:27:50] [Client thread/INFO]: [CHAT] <Player246> hello
+[10:27:59] [Server thread/WARN]: Skipping Entity with id wither
+[10:27:59] [Client thread/INFO]: [CHAT] Unable to summon object
+[10:29:05] [Server thread/INFO]: Saving and pausing game...
+[10:29:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:29:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:29:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:29:06] [Server thread/INFO]: Stopping server
+[10:29:06] [Server thread/INFO]: Saving players
+[10:29:06] [Server thread/INFO]: Saving worlds
+[10:29:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:29:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:29:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:29:08] [Client thread/INFO]: Stopping!
+[10:29:08] [Client thread/INFO]: SoundSystem shutting down...
+[10:29:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
